@@ -27,8 +27,8 @@ limitations under the License.
         <attr name="textSize" format="dimension"></attr>
     </declare-styleable>
     <declare-styleable name="SpellButtonCircle">
-        <attr name="buttonSize" format="dimension" />
-        <attr name="buttonPadding" format="dimension" />
+        <attr name="spellButtonSize" format="dimension" />
+        <attr name="spellButtonPadding" format="dimension" />
     </declare-styleable>
 
 </resources>

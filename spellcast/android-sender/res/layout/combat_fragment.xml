@@ -27,9 +27,9 @@ limitations under the License.
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:background="@drawable/spell_rune_bg"
-        spellcast:buttonSize="@dimen/spellcast_spell_button_size"
+        spellcast:spellButtonSize="@dimen/spellcast_spell_button_size"
         android:layout_centerInParent="true"
-        spellcast:buttonPadding="0dp" />
+        spellcast:spellButtonPadding="0dp" />
 
     <ImageView
         android:id="@+id/success_fail_image"
